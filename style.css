@@ -144,7 +144,7 @@ header .container .col-md-7 button{
 .cover{
     width: 100%;
     height: 77vmin;
-    background: url("../assets/d9.jpg");
+    background: url("assets/d9.jpg");
     background-position: -24rem -19rem;
     background-size: 150%;
     position: relative;
